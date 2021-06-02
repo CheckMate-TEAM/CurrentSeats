@@ -1,0 +1,7 @@
+com/example/currentseats/BuildConfig.java
+ com.example.currentseats.BuildConfig
+com/example/currentseats/MainActivity.java
+ com.example.currentseats.MainActivity
+com/example/currentseats/CustomDialog.java
+ com.example.currentseats.CustomDialog
+ com.example.currentseats.CustomDialog$1
